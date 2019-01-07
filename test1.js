@@ -22,4 +22,12 @@ ss
 >>>>>>> screen2
 >>>>>>> screen2
 >>>>>>> screen
+<<<<<<< develop
 deve5r
+=======
+<<<<<<< develop
+deve5
+=======
+f
+>>>>>>> vue1
+>>>>>>> vue1
