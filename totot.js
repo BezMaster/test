@@ -7,5 +7,15 @@ ghgghhg
 ghgh
 gh
 const gigi = '';
+<<<<<<< develop
+<<<<<<< develop
 jn
+=======
+d
+>>>>>>> coco1
+=======
+ddd
+>>>>>>> coco2
+
 jn
+ju
