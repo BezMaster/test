@@ -8,10 +8,15 @@ const titi = 'fgfgf';
 ss
 df
 <<<<<<< HEAD
+<<<<<<< HEAD
 sd
 e
-fgf
 =======
+sdss
+
+>>>>>>> develop
+fgf
+=====s==
 <<<<<<< develop
 sd
 =======
