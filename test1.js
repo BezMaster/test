@@ -16,9 +16,15 @@ fgf
 sd
 =======
 =======
+<<<<<<< HEAD
 sfs
 dfgfs
 ss
+=======
+s
+dfgf
+ssxdd
+>>>>>>> develop
 >>>>>>> screen2
 >>>>>>> screen2
 >>>>>>> screen
