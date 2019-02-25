@@ -8,9 +8,19 @@ ghgh
 gh
 const gigi = '';  
 <<<<<<< develop
+<<<<<<< develop
+<<<<<<< develop
 <<<<<<< develop  
 jn  
 ======= 
+=======
+=======
+<<<<<<< develop 
+>>>>>>> bobo2
+<<<<<<< develop   
+jn 
+>>>>>>> bobo1
+=======
 dfg
 <<<<<<< develop
 >>>>>>> coco1
