@@ -10,6 +10,7 @@ const gigi = '';
 var gogo = "gigi"
 var toto = "titi"
 <<<<<<< develop
+var tutu = "tutu"
 <<<<<<< develop
 <<<<<<< develop
 <<<<<<< develop  
