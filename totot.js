@@ -12,8 +12,13 @@ const gigi = '';
 jn
 =======
 dfg
+<<<<<<< develop
 >>>>>>> coco1
 =======  
+=======
+>>>>>>> coco1  
+=======
+>>>>>>> bebe2
 dddf
 >>>>>>> coco2
 ju 
