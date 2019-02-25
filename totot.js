@@ -7,6 +7,7 @@ ghgghhg
 ghgh
 gh
 const gigi = '';    
+console.log('zidane')  
 var gogo = "gigi"
 var toto = "titi"
 <<<<<<< develop
