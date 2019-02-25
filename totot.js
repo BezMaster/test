@@ -6,7 +6,9 @@ ghggh
 ghgghhg    
 ghgh
 gh
-const gigi = '';  
+const gigi = '';    
+var gogo = "gigi"
+var toto = "titi"
 <<<<<<< develop
 <<<<<<< develop
 <<<<<<< develop
